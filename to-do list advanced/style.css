@@ -6,7 +6,7 @@ body {
     font-size: 1.2rem;
 }
 header {
-    background-color: mediumorchid;
+    background-color: #cd78e3;
     color: white;
     height: 100px;
     padding: 2rem 1rem;
@@ -31,7 +31,7 @@ input[type="text"] {
 }
 form > button {
     cursor: pointer;
-    background-color: mediumorchid;
+    background-color: #cd78e3;
     color: white;
     border: none;
     padding: 0.5rem 0.8rem;
@@ -58,5 +58,5 @@ ul {
     font-weight: bolder;
 }
 .close:hover {
-    color:tomato
+    color: #ec836c
 }
